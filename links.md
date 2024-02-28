@@ -14,3 +14,13 @@ These commands will help you list PCI devices, view information about your CPU, 
 Literally another new language so it'd be better to learn some basic things.
 <br>
 <hr>
+
+* [Progate](https://progate.com/) ---
+An online platform to learn programming that's available in Indonesian!
+<br>
+<hr>
+
+* [C Introduction](https://www.w3schools.com/c/c_intro.php?external_link=true) ---
+New language again, so get ready to learn some more basic things of C.
+<br>
+<hr>
