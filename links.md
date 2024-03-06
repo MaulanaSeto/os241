@@ -24,3 +24,13 @@ An online platform to learn programming that's available in Indonesian!
 New language again, so get ready to learn some more basic things of C.
 <br>
 <hr>
+
+* [60 Essential Linux Commands + Free Cheat Sheet](https://www.hostinger.com/tutorials/linux-commands) ---
+Know this operating system better with learning its commands!
+<br>
+<hr>
+
+* [Encryption Key](https://www.techtarget.com/searchsecurity/definition/key) ---
+A variable value that is applied using an algorithm to a string or block of unencrypted text.
+<br>
+<hr>
