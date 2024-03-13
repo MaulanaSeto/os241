@@ -37,4 +37,12 @@ ZCZC W04 125 L14 Assignment #04
 ZCZC W04 20 L40 TXT/ related in general.
 ZCZC W03 15 L01 SCELE/Discord Related
 ZCZC W04 10 L05 Quiz related including studying
-ZCZC W04 5  L03 GitHub and git related, including commit, push, pull
+ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
+
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 130 L15 Assignment #05
+ZCZC W05 20 L01 SCELE/Discord Related
+ZCZC W05 5 L05 Quiz related including studying
+ZCZC W05 30 L40 TXT/ related in general.
+ZCZC W05 5 L03 GitHub and git related, including commit, push, pull

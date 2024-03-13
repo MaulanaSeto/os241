@@ -34,3 +34,8 @@ Know this operating system better with learning its commands!
 A variable value that is applied using an algorithm to a string or block of unencrypted text.
 <br>
 <hr>
+
+* [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) ---
+The functionality of an operating system which handles or manages primary memory and moves processes back and forth between main memory and disk during execution.
+<br>
+<hr>
