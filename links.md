@@ -39,3 +39,8 @@ A variable value that is applied using an algorithm to a string or block of unen
 The functionality of an operating system which handles or manages primary memory and moves processes back and forth between main memory and disk during execution.
 <br>
 <hr>
+
+* [Shared Memory](https://www.ibm.com/docs/en/informix-servers/12.10?topic=memory-shared) ---
+Operating-system feature that allows the database server threads and processes to share data by sharing access to pools of memory.
+<br>
+<hr>
